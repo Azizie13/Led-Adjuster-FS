@@ -8,8 +8,7 @@ Check out [this link](https://python-poetry.org/docs/) to install Poetry on your
 
 Make sure you have installed [Python](https://www.python.org/downloads/) 3.10 or above! Otherwise Step 3 will let you know that you have no compatible Python version installed.
 
-1. Clone/Download this repository
-2. Make sure CLIPSDOS has been installed. 
+1. Clone/Download this repository 
 2. Navigate to the root of the repository
 3. Run ```poetry install``` to create a virtual environment with Poetry
 4. Run ```poetry run python main.py``` to run the program. Alternatively you can run ```poetry shell``` followed by ```python main.py```
